@@ -1,1 +1,1 @@
-Automated financial report analyzer that extracts data from Excel/PDF and calculates company risk metrics.
+AI-powered financial risk analyzer that extracts data from Excel/PDF reports and generates risk metrics, charts, and automated reports.
